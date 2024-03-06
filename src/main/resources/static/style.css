@@ -1,0 +1,28 @@
+body {
+    background-color: #e1fce2;
+    font-family: Arial, sans-serif;
+}
+
+.kontener {
+    padding-top: 50px;
+}
+
+.karta-pogody {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.karta-pogody p {
+    margin-bottom: 10px;
+}
+
+.karta-pogody b {
+    font-weight: bold;
+}
+
+.karta-pogody .btn-primary {
+    width: 100%;
+}
